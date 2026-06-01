@@ -13,6 +13,22 @@ Data analysis projects completed during my learning path at [Dataquest.io](https
 | 05 | [Exchange Rates Visualization](./05_Storytelling%20Data%20Visualization%20on%20Exchange%20Rates) | Matplotlib, storytelling |
 | 06 | [Employee Exit Surveys](./06_Clean%20and%20Analyze%20Employee%20Exit%20Surveys) | Data aggregation, survey analysis |
 
+## Skills Map
+
+```mermaid
+mindmap
+  root((Dataquest\nProjects))
+    Data Analysis
+      Profitable App Profiles
+      Hacker News Posts
+    Data Cleaning
+      eBay Car Sales
+      Employee Exit Surveys
+    Visualization
+      Traffic I-94
+      Exchange Rates
+```
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
